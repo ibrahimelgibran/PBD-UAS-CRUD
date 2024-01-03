@@ -92,7 +92,7 @@ else {
 $html .= '    		</tbody>
             	</table>
           	</div>
-          	<div class="text-right mt-5">Bandar Lampung, ' . tanggal_indo(date('Y-m-d')) . '</div>
+          	<div class="text-right mt-5">Yogyakarta, ' . tanggal_indo(date('Y-m-d')) . '</div>
         </body>
         </html>';
 
